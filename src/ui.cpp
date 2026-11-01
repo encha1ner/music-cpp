@@ -5,10 +5,11 @@
 #include <ftxui/component/component.hpp>
 #include <ftxui/component/screen_interactive.hpp>
 #include <ftxui/dom/elements.hpp>
-#include <ftxui/screen/terminal.hpp>
+#include <ftxui/screen/terminal.hpp> //added
 
 #include <algorithm>
 #include <atomic>
+#include <chrono> //added
 #include <cctype>
 #include <cmath>
 #include <cstdio>
