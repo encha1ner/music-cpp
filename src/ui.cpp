@@ -13,6 +13,7 @@
 #include <cctype>
 #include <cmath>
 #include <cstdint> //added
+#include <cstdlib> // added
 #include <cstdio>
 #include <string>
 #include <thread>
